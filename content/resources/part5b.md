@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/e82160ff430060da2c2619f791d30991_part5b.pdf
 file_size: 192837
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

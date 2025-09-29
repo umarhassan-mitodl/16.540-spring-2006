@@ -5,6 +5,8 @@ description: This Appendix on the taxonomy of knowledge is an abbreviated versio
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/351f515bb32e0ea5fe661f8317169220_syllbloomtaxon.pdf
 file_size: 62050
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

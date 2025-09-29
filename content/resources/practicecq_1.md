@@ -4,6 +4,8 @@ description: This resource contain an example concept quiz.
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/88f19ea98365199d894c07361f9a6b4c_practicecq_1.pdf
 file_size: 89058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

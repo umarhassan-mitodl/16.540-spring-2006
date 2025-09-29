@@ -4,6 +4,8 @@ description: This resource contain question and its solution on Concept question
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/eaeeaa23deeeece9dcc873741a88b305_cq1_c.pdf
 file_size: 168642
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

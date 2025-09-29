@@ -5,6 +5,8 @@ description: This resource gives information on creation of a vortex ring and sh
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/e7c26c0e9bbb8ef195f80defdb179ab1_part3.pdf
 file_size: 54843
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: Lecture slides about modeling fluid flow, the evolution of engineer
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/22a15645d0893ea67b3dfcfc4c03b6aa_part1b.pdf
 file_size: 616270
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the overall course content and scope, and information
   about lectures, the text for the class, course grading and assignments, learning
   objectives, and measurable outcomes for 16.540.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
