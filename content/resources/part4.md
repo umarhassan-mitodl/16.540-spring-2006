@@ -5,8 +5,6 @@ description: This resource gives information on vorticity and streamline curvatu
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/4dbf0d1c293f12954450dcde8f71fd0f_part4.pdf
 file_size: 113845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

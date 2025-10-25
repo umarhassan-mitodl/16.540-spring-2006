@@ -5,8 +5,6 @@ description: This resource gives information about flow in rotating ducts and fl
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/39b61b94317623b94dc7148c240741c5_part5a.pdf
 file_size: 64937
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
